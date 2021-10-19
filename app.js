@@ -4,6 +4,6 @@ function handleTitleClick(){
     h1.classList.toggle("clicked");
 }
 
-console.log("test");
+console.log("commit test 10/19");
 
 h1.addEventListener("click", handleTitleClick);
